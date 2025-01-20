@@ -45,6 +45,10 @@ Other Tools: Power BI, Git.
 
 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius380)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
+
+![Vinicius380's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius380&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius380&layout=compact&theme=radical&langs_count=6)
 
 
