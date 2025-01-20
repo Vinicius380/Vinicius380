@@ -36,16 +36,15 @@ Other Tools: Power BI, Git.
 
 📌 Sensorized Garment for Physical MonitoringDevelopment of a wearable device for tracking the physical capabilities of cancer survivors.
 
-📊 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius380)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 📫 Get in Touch
 
 💼 LinkedIn: www.linkedin.com/in/vinicius-j-s
 
 📧 Email: viniciusdejesussilva12@gmail.com
+
+📊 GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius380)](https://github.com/anuraghazra/github-readme-stats)
 
 
