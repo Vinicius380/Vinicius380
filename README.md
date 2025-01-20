@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my GitHub profile.
-My name is Vinicius, also known as "Vinicius380"!
+##My name is Vinicius, also known as "Vinicius380"!
 
 ## About Me
 
