@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hello! Welcome to my GitHub profile.
 
-<!--
-**Vinicius380/Vinicius380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Vinicius, also known as "Vinicius380"!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **Data Science student** with academic  experience in data analysis and projects focused on sustainability and health. I specialize in applying data collection and visualization techniques to address real-world challenges. With a technical background in **Logistics** and proficiency in **Python**, **SQL**, and data visualization tools, I have developed projects that showcase real-time data insights.
+
+Some of my key projects include:
+
+- **Environmental Monitoring**: Tracking CO₂ levels and temperature in urban areas to provide air quality indicators and support sustainability initiatives.
+- **Sensorized Garment Development**: Creating a wearable device to measure the physical capabilities of women recovering from cancer, enabling precise monitoring to improve health and well-being.
+
+---
+
+## 🎯 Areas of Interest
+
+- **Data Science**: Analysis, visualization, and machine learning.
+- **IoT**: Environmental monitoring with ESP32.
+- **Health and Technology**: Integrating sensors and analyzing impacts.
+
+---
+
+## 🛠️ Technologies and Tools
+
+- **Programming Languages**: Python, SQL, R.
+- **Libraries and Frameworks**: Pandas, NumPy, Streamlit, Flask.
+- **Databases**: MySQL, SQLAlchemy.
+- **Other Tools**: Power BI, Git.
+
+---
+
+## 🚀 Featured Projects
+
+📌 **[Environmental Monitoring of CO₂](https://github.com/Vinicius380/IniciacaoCientifica)**\
+Analyzing air quality data in urban areas to support public health and sustainability agendas.
+
+📌 **[Sensorized Garment for Physical Monitoring](https://github.com/Vinicius380/Codigos_Projeto_Remama)**\
+Development of a wearable device for tracking the physical capabilities of cancer survivors.
+
+---
+
+## 📫 Get in Touch
+
+- 💼 LinkedIn: [www.linkedin.com/in/vinicius-j-s](http://www.linkedin.com/in/vinicius-j-s)
+- 📧 Email: [viniciusdejesussilva12@gmail.com](mailto\:viniciusdejesussilva12@gmail.com)
