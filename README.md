@@ -19,7 +19,6 @@ Some of my key projects include:
 
 - **Data Science**: Analysis, visualization, and machine learning.
 - **IoT**: Environmental monitoring with ESP32.
-- **Health and Technology**: Integrating sensors and analyzing impacts.
 
 ---
 
